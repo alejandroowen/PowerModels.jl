@@ -1,4 +1,4 @@
-# stuff that is universal to all power modelss
+# stuff that is universal to all power models
 
 "root of the power formulation type hierarchy"
 abstract type AbstractPowerModel <: _IM.AbstractInfrastructureModel end
